@@ -1,6 +1,11 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=delpho)](https://solved.ac/delpho)
-<br></br>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+<br>
+<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimjaeseo%2Fhit-counter&count_bg=%2327E2A4&title_bg=%23EC9A00&icon=&icon_color=%23EDEDED&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
+<br>
+<!-- <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> -->
+
 
 <!--
 **simjaeseo/simjaeseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
