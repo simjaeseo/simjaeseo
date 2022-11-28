@@ -1,5 +1,4 @@
-# JaeSeo Sim : Junior Backend Developer   
-<br>
+# JaeSeo Sim : Junior Backend Developer
 
 ### 🎓 Education
 - Samsung SW Academy For Youth (a.k.a. SSAFY) 7th (2022.01 - present)
