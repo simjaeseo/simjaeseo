@@ -17,16 +17,21 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
+<br>
+<br>
+<br>
+<div align=center>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=delpho)](https://solved.ac/delpho)
-<br>
-<br>
-
-<div align="center">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=delpho">
+    
 </div>
 
+<br>
+<div align=right>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimjaeseo%2Fhit-counter&count_bg=%2327E2A4&title_bg=%23EC9A00&icon=&icon_color=%23EDEDED&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 <br>
 <br>
 <!-- <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> -->
