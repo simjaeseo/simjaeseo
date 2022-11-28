@@ -1,4 +1,4 @@
-# JaeSeo Sim : Backend Junior Developer   
+# JaeSeo Sim : Junior Backend Developer   
 <br>
 
 ### 🎓 Education
