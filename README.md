@@ -1,3 +1,21 @@
+# JaeSeo Sim : Backend Junior Developer   
+<br>
+
+### 🎓 Education
+- Samsung SW Academy For Youth (a.k.a. SSAFY) 7th (2022.01 - present)
+- Incheon National University, Information and Telecommunication Engineering (2015.03 - 2022.02)
+<br>
+
+### 💻 Project 
+
+|      Period       |       Category        | Project                                                      |
+| :---------------: | :-------------------: | ------------------------------------------------------------ |
+| 2022.10 - 2022.11 |          Web          | [니방내방 - 자취방 양도 플랫폼](https://github.com/simjaeseo/YourRoomMyRoom)  |
+| 2022.08 - 2022.10 |          Web          | [ART-REND - 온라인 전시회 서비스](https://github.com/simjaeseo/ART-REND)  |
+| 2022.07 - 2022.08 |          Web          | [SAI - WebRTC를 활용한 화상 모의 면접 서비스](https://github.com/simjaeseo/SAI)  |
+| 2021.02 - 2021.11 | Application, Embedded | [CosMo - 공유 모빌리티 안전성 개선을 위한 IoT 헬멧박스](https://github.com/simjaeseo/CosMo)  |
+<br>
+
 ### 🛠 Stacks
 <b>Frontend　</b>   
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
