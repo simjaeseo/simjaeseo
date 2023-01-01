@@ -1,7 +1,7 @@
 # JaeSeo Sim : Junior Backend Developer
 
 ### 🎓 Career
-- Samsung SW Academy For Youth (a.k.a. SSAFY) 7th (2022.01 - present)
+- Samsung SW Academy For Youth (a.k.a. SSAFY) 7th (2022.01 - 2022.12)
 - Incheon National University, Information and Telecommunication Engineering (2015.03 - 2022.02)
 <br>
 
